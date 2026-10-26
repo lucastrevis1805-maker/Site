@@ -1,22 +1,24 @@
 body {
-    background-color: #0282fa;
+    color: #f0f8ff;
+    background-color: #323d48;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 header {
-    background-color: #05f7f7;
+    background-color: #365454;
     padding: 8px;
 }
 
 #titulo {
-    background-color: #000000;
+    background-color: #436464;
     color: #f0f8ff;
     padding: 12px;
     text-align: center;
 }
 
 nav {
-    background-color: darkblue;
+    background-color: #436464;
     padding: 10px;
 }
 
@@ -29,7 +31,7 @@ nav {
 }
 
 .paragrafos {
-    background-color: #6ddfdf;
+    background-color: #517575;
 }
 
 h2 {
@@ -40,7 +42,7 @@ h2 {
 
 h3 {
     text-decoration: underline;
-    background-color: #729fec;
+    background-color: #3f4b60;
 }
 
 
@@ -69,5 +71,5 @@ a {
 }
 
 footer {
-    background-color: #faebd7;
+    background-color: #27231d82;
 }
