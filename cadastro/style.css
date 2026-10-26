@@ -11,9 +11,11 @@ header {
 
 #link {
     display: flex;
+
     justify-content: end;
-    background-color: #fef2e3;
+    background-color: #395b5a;
     font-size: x-small;
+    color: #f0ffff;
 }
 
 main {
@@ -34,4 +36,10 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: flex-start;
+    gap: 12px
+}
+
+label {
+    color: #f0f8ff;
 }
