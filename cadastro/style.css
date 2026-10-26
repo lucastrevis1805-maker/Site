@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #000000;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #d1ffff;
+}
+
+#link {
+    display: flex;
+    justify-content: end;
+    background-color: #fef2e3;
+    font-size: x-small;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    background-color: #557e7e;
+}
+
+input {
+    border-radius: 4px;
+}
+
+button {
+    border-radius: 3px;
+}
+
+.cadastro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
