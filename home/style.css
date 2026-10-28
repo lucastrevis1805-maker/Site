@@ -49,11 +49,13 @@ h3 {
 th {
     background-color: #f9ecec;
     justify-content: center;
+    color: #323d48;
 }
 
 td {
     background-color: #f0f8ff;
     justify-content: center;
+    color: #323d48;
 }
 
 .images {
